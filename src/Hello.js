@@ -11,7 +11,7 @@ class Hello extends Component {
   createList = (arr) =>
     arr
       .filter(s => s.startsWith('S'))
-      .map((s) => <li>{s}</li>);
+      .map((s) => <li key={s}>{s}</li>);
 
   render() {
     return (
