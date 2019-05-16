@@ -1,15 +1,20 @@
 import React, { Component } from 'react';
-import Hello from './Hello';
-import logo from './logo.svg';
+import Codeblock from './components/Codeblock';
 import './App.css';
 
 class App extends Component {
   render() {
+
+    let helloworldCode = `public static void main(String[] args) {
+  System.out.println("Hello World");
+}`;
+
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <Hello name="Hofi"/>
+          <Codeblock language="javascript">
+            {helloworldCode}
+          </Codeblock>
         </header>
       </div>
     );
