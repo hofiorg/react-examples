@@ -6,6 +6,11 @@
 git clone https://github.com/hofiorg/react_examples.git
 cd react_examples
 npm install
+```
+
+## Start
+
+```
 npm start
 ```
 
