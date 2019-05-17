@@ -2,4 +2,16 @@
 
 ## Installation
 
-`npm start`
+```
+git clone https://github.com/hofiorg/react_examples.git
+cd react_examples
+npm install
+npm start
+```
+
+## Related Links
+
+|       |                        |
+| ----- | ---------------------- |
+| Prism | <https://prismjs.com/> |
+| React | <https://reactjs.org/> |
