@@ -1,11 +1,12 @@
 {
   "name": "react_examples",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "2.0.5"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^0.9.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,17 +17,11 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ],
   "devDependencies": {
-    "@babel/core": "^7.1.2",
-    "@babel/preset-env": "^7.1.0",
-    "@babel/preset-react": "^7.0.0",
-    "babel-loader": "^8.0.4",
-    "prismjs": "^1.16.0"
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-react": "^7.16.0",
+    "babel-loader": "^8.2.3",
+    "prismjs": "^1.25.0"
   }
 }
