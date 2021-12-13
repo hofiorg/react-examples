@@ -1,4 +1,4 @@
-# react_examples &middot; [![Build Status](https://travis-ci.org/hofiorg/react_examples.svg?branch=master)](https://travis-ci.org/hofiorg/react_examples)
+# react_examples &middot; ![node_js workflow](https://github.com/hofiorg/react_examples/actions/workflows/node.js.yml/badge.svg)
 
 ## Installation
 
