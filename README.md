@@ -17,7 +17,7 @@ npm start
 ## Related Links
 
 |                              |                                                                               |
-| ---------------------------- | ----------------------------------------------------------------------------- |
+|------------------------------|-------------------------------------------------------------------------------|
 | React                        | <https://reactjs.org/>                                                        |
 | Prism                        | <https://prismjs.com/>                                                        |
 | Get PrismJS working in React | <https://medium.com/get-it-working/get-prismjs-working-in-react-a6d989e59290> |

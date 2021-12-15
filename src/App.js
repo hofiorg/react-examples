@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import Codeblock from './components/Codeblock';
+import { Component } from 'react';
+import Codeblock from './components/Codeblock.js';
 import './App.css';
 
 class App extends Component {
