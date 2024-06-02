@@ -23,6 +23,11 @@
     "@svgr/webpack": "^6.1.2",
     "react-scripts": "^5.0.0"
   },
+  "overrides": {
+    "react-scripts": {
+      "postcss":"8.4.38"
+    }
+  },  
   "browserslist": {
     "production": [
       ">0.2%",
