@@ -20,10 +20,17 @@ npm start
 npm test
 ```
 
+## Build
+
+```sh
+npm run build
+```
+
 ## Related Links
 
 |                              |                                                                               |
 |------------------------------|-------------------------------------------------------------------------------|
 | React                        | <https://reactjs.org/>                                                        |
+| Vite                         | <https://vite.dev/>                                                           |
 | Prism                        | <https://prismjs.com/>                                                        |
 | Get PrismJS working in React | <https://medium.com/get-it-working/get-prismjs-working-in-react-a6d989e59290> |

@@ -1,6 +1,6 @@
 import { Component } from 'react';
-import Codeblock from './components/Codeblock.js';
-import Hello from './components/Hello.js';
+import Codeblock from './components/Codeblock';
+import Hello from './components/Hello';
 import './App.css';
 
 class App extends Component {
