@@ -2,7 +2,7 @@
 
 ## Installation
 
-```
+```sh
 git clone https://github.com/hofiorg/react_examples.git
 cd react_examples
 npm install
@@ -10,8 +10,14 @@ npm install
 
 ## Start
 
-```
+```sh
 npm start
+```
+
+## Test
+
+```sh
+npm test
 ```
 
 ## Related Links
