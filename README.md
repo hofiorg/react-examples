@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![node_js workflow](https://github.com/hofiorg/react-examples/actions/workflows/node.js.yml/badge.svg)](https://github.com/hofiorg/react-examples/actions/workflows/node.js.yml)
 
+**React Examples** is a collection of React components and examples designed to demonstrate fundamental React concepts and best practices. This project serves as a learning resource.
+
 ## 📥 Installation
 
 ```sh
