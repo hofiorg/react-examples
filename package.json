@@ -13,16 +13,13 @@
     "preview": "vite preview",
     "test": "vitest"
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
-    "@vitejs/plugin-react": "^4.5.2",
+    "@vitejs/plugin-react": "^4.6.0",
     "jsdom": "^26.1.0",
     "prismjs": "^1.30.0",
-    "vite": "^6.3.5",
+    "vite": "^7.0.0",
     "vitest": "^3.2.4"
   },
   "browserslist": {
